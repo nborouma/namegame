@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     928 MB
+    Driver:   10.18.10.4276
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\D101_M03_Sherry_Nazanin_Heidi-1\Name\Name_M03_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.981736 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.599502 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.330831 ms (FindLiveObjects: 0.054823 ms CreateObjectMapping: 0.023158 ms MarkObjects: 0.213622 ms  DeleteObjects: 0.037336 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.470725 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1161.
+Total: 0.755713 ms (FindLiveObjects: 0.205115 ms CreateObjectMapping: 0.051042 ms MarkObjects: 0.453711 ms  DeleteObjects: 0.044898 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3f7c -> priority: 1 
+  Thread -> id: 339c -> priority: 1 
